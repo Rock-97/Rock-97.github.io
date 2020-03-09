@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yanyan Huang's Homepage"
+title                    : "Yanyan's Homepage"
 title_separator          : "-"
 name                     : &name "Yanyan Huang"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yanyan Huang(黄岩岩)"
   avatar           : "profile.png"
-  bio              : "B.E. in EE, HIT"
+  bio              : "B.E. in EE, Harbin Institute of Technology"
   location         : "Harbin, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "hit_hyy@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
