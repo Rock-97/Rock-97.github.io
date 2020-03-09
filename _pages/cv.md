@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Electronics Engineering, Harbin Institute of Technology(HIT), 2016-Present
+* GPA: 91.3/100
+* Ranking : 3/104
 
 Research Interests
 ======
