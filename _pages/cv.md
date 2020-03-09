@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronics Engineering, Harbin Institute of Technology(HIT), 2016-Present
 
-Work experience
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Signal Processing
+* Imaging Algorithm
+* Signal Parameter Estimation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
+* May. 2019-Present: Active Near-Field Millimeter-Wave 3-D Imaging
+  * Harbin Institute of Technology
+  * Supervisor: Professor Wang Yong
+  * Research Summary：
+    * Corrected the parameters of cylindrical scanning imaging system using Amplitude Correction and Carrier Frequency Correction to reduce the system error
+    * Generating 3-D images of human body using Back Projection Algorithm or w-k Algorithm (on going)
   
+
+* Oct. 2018-Apr. 2019: Simulation of ISAR Imaging of Moving Target
+  * Harbin Institute of Technology
+  * Supervisor: Professor Wang Yong
+  * Research Summary：
+    * Generated images of moving target with R-D algorithm
+    * Estimated parameters of a quadratic FM signal using Randon Transform and Successive Elimination Method to rebuilt the image of moving target
+    * Used Time-Frequency Rate Representation to suppressed the cross terms of multicomponent chirp signals
+
+* Feb. 2018: MCM Problem: Multi-hop HF Radio Propagation
+  * Harbin Institute of Technology
+  * Supervisor: Dazhi Zhang
+  * Research Summary：
+    * Established the Correlation Model of wind speed and ocean waves to calculate the power loss from the reflection of radio waves on the sea surface and avoid complex calculations
+    * Wrote programs to operate on models and drafted the paper
+  
+  
+Honors and Awards
+======
+* **National scholarship**
+* People's scholarship
+* Meritorious Winner in Mathematical Contest in Modeling
+* First Prize in Northeast Division - "NXP" Cup Smart Car Competition
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Matlab > Python > C
+* Platform: windows 10, Linux
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
