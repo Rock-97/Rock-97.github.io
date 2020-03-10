@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Yanyan Huang', 'hit_hyy@outlook.com', 'https://rock-97.github.io/', 'message']
+  allowedFields          : ['Yanyan Huang', 'yyhuang.top@gmail.com', 'https://rock-97.github.io/', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "hit_hyy@outlook.com"
+  email            : "yyhuang.top@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
